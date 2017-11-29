@@ -2,6 +2,7 @@ source "https://rubygems.org"
 
 gem 'pry'
 gem 'rspec'
-gem 'twitter', '~> 5.11.0'
+gem 'twitter'
 gem 'webmock'
 gem 'vcr'
+gem 'json', '~> 1.8.1'
